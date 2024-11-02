@@ -21,17 +21,17 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:mostafa.wardeh2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:mostafa.wardeh2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mustafa-abu-wardeh1720" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mustafa-portfolio-weld.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
     <a href="https://drive.google.com/file/d/1LKZq0AdDCm4yshwEk0KWuj_Dv7uGPDYZ/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" />
+    <img src="https://img.shields.io/badge/CV-27a067?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
 
