@@ -30,7 +30,7 @@
   <a href="https://mustafa-portfolio-weld.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-    <a href="https://drive.google.com/file/d/1D_BOYLjjJyZibCWImTWv0vPsgjNVk5Iy/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1QnPWvL4E_bkbt2amoo-83MwhKVSgfCbp/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-27a067?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
