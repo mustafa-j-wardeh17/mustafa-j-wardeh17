@@ -10,11 +10,10 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Docker, Supabase, Prisma**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/mustafa-j-wardeh17/mustafa-j-wardeh17/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡**Be patient—empires aren't built in a day.**
 
  </div>
  
